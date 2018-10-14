@@ -1,0 +1,19 @@
+Name of Quantlet: MnistDeepLearning
+
+Published in: Quantlet
+
+Description: 'Create and train four neural networks corresponding to different architectures (Dense, RNN, GRU and LSTM) on Fashion Mnist dataset.'
+
+Keywords: Dense, ANN, MLP, RNN, LSTM, deep learning, mnist, fashion, neural network
+
+Author: Bruno Spilak
+
+Submitted:  2018-10-14 by Bruno Spilak
+
+Output:
+- MnistDeepLearning1.png
+- MnistDeepLearning2.png
+- Dense-model_mnist_fashion.h5
+- LSTM-model_mnist_fashion.h5
+- RNN-model_mnist_fashion.h5
+- GRU-model_mnist_fashion.h5
